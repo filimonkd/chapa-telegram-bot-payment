@@ -2,6 +2,7 @@
   "name": "chapa-telegram-bot-payment",
   "version": "1.0.0",
   "description": "Dengez Gifts payment integration bot",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
